@@ -1,0 +1,36 @@
+{
+  "name": "markdown-proyect",
+  "version": "1.0.0",
+  "description": "this is an app to recover all links in a md file",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marielk/scl-2018-01-FE-markdown.git"
+  },
+  "keywords": [
+    "link",
+    "markdown",
+    "npm",
+    "library"
+  ],
+  "author": "mariel_quezada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marielk/scl-2018-01-FE-markdown/issues"
+  },
+  "homepage": "https://github.com/Marielk/scl-2018-01-FE-markdown#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "chai": "^4.1.2",
+    "marked-terminal": "^3.0.0",
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-google": "^0.9.1",
+    "marked": "^0.4.0"
+  }
+}

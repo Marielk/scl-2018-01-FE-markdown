@@ -1,0 +1,4 @@
+* notas de uso * 
+Usa la libreria como un paquete completo, instalando con npm, se guardara el fichero en la carpeta node_modules, markdown-proyect. Luego en tu archivo js puedes usarlo directamente con "require", ejemplo: require('./node_modules/markdown-proyect/lib/md-links');
+
+
