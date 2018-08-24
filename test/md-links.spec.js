@@ -14,16 +14,13 @@ describe('deberia encontrar un archivo por parametro', () =>{
   assert.equal(fileType, '.md'); // comprueba su extension
 });
 
-// describe('deberia tener links en su interior', () =>{
-//   let found = index.links('TEST.md');
-//   // comprueba si tiene links dentro
-//   found.forEach(link, () => {
-//     assert.isObject(link);
-//     assert.ok(link.hasOwnProperty('href'));
-//     assert.ok(link.hasOwnProperty('text'));
-//     assert.ok(link.hasOwnProperty('file'));
-//     assert.ok(link.hasOwnProperty('line'));
-//     let link1 = found[0].url;
-//     assert.equal(link1, 'https://trello.com/b/PV2CGwKc/markdown');
-//   });
-// });
+describe('deberia tener links en su interior', () =>{
+  let found = index.mdExtractor('TEST.md');
+  // comprueba si tiene links dentro
+  let link1 = found[0];
+  // assert.equal(link1.href, 'https://trello.com/b/PV2CGwKc/markdown');
+  assert.ok(link1.hasOwnProperty('href'));
+  assert.ok(link1.hasOwnProperty('text'));
+  assert.ok(link1.hasOwnProperty('file'));
+  assert.ok(link1.hasOwnProperty('line'));
+});
