@@ -25,13 +25,15 @@
   "dependencies": {
     "babel": "^6.23.0",
     "chai": "^4.1.2",
-    "mocha": "^5.2.0"
+    "mocha": "^5.2.0",
+    "stacktrace-js": "^2.0.0"
   },
   "devDependencies": {
     "chalk": "^2.4.1",
     "eslint": "^5.4.0",
     "eslint-config-google": "^0.9.1",
     "marked": "^0.4.0",
-    "marked-terminal": "^3.0.0"
+    "marked-terminal": "^3.0.0",
+    "stack-trace": "0.0.10"
   }
 }

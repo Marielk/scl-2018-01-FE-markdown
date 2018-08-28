@@ -19,4 +19,17 @@ Marked
 https://www.npmjs.com/package/marked-terminal
 https://github.com/markedjs/marked
 https://marked.js.org/#/USING_ADVANCED.md#options
+https://www.npmjs.com/package/chalk
+
+Found Line
+https://stackoverflow.com/questions/2044642/finding-out-what-line-number-an-element-in-the-dom-occurs-on-in-javascript
+
+
+Debug nodejs
+https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
+
+
+Error con el modulo de Marked-terminal 
+https://github.com/markedjs/marked/issues/1323
+
 

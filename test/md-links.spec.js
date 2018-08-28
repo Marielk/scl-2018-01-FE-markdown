@@ -3,8 +3,8 @@ const index = require('../lib/md-links.js');
 
 describe('testear funcion que busca el archivo indicado', () => {
   it('debería ser una funcion', () => {
-    assert.equal(typeof index.read, 'function');
-    assert.equal(typeof index.links, 'function');
+    assert.equal(typeof index.mdlinks, 'function');
+    assert.equal(typeof index.mdExtractor, 'function');
   });
 });
 describe('deberia encontrar un archivo por parametro', () =>{
