@@ -1,0 +1,178 @@
+[33mcommit 671081757390d745b1e44b4f0d1a97dc53141afd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mariel <marielk.mya@gmail.com>
+Date:   Wed Aug 29 12:06:41 2018 -0300
+
+    creada opcion de comando CLI
+
+[33mcommit 5b38ecbf1d4d66b2b074af4b048bffe05e07833b[m
+Author: Mariel <marielk.mya@gmail.com>
+Date:   Tue Aug 28 12:54:22 2018 -0300
+
+    extraidas las lineas de codigo y links
+
+[33mcommit 002047c6b6bbb4a4901eeb5d0e6d4982a63bef65[m
+Author: Mariel <marielk.mya@gmail.com>
+Date:   Fri Aug 24 13:03:00 2018 -0300
+
+    probando nuevos test, agregando colores a la terminal
+
+[33mcommit 1d64ffe0feced33333b3e5a82689671664db0714[m
+Author: Mariel <marielk.mya@gmail.com>
+Date:   Fri Aug 24 10:55:24 2018 -0300
+
+    extrayendo links
+
+[33mcommit e1aadab23cc9ab320a8f545f2603b12c233eeed5[m
+Author: Mariel <marielk.mya@gmail.com>
+Date:   Fri Aug 24 10:11:25 2018 -0300
+
+    reconfigurando archivo git
+
+[33mcommit a7ca9479a3fd4838012de69cd6eaf657e25e2744[m
+Author: Alexandra Neira <alexandra.neira@gmail.com>
+Date:   Mon Aug 20 10:28:04 2018 -0300
+
+    delete stats
+
+[33mcommit 816a23a6650651f1dbb99ccab488f45bf57e38e8[m
+Author: nerdale <alexandra.neira@gmail.com>
+Date:   Fri Aug 17 09:49:08 2018 -0300
+
+    detalles ortográficos ok
+
+[33mcommit 1d8673e98619f5e69e1fb78a11d9e21bc3447abe[m
+Author: Fabian Alexis Bravo Abarca <fabian.bravo.abarca@gmail.com>
+Date:   Fri Aug 17 08:47:25 2018 -0300
+
+    Algunas correcciones de lenguaje y eliminación de otros puntos que no van en SCL
+
+[33mcommit 4eba90e2a65b444d40de7293f31e7b9c6a68063e[m
+Author: Fabian Alexis Bravo Abarca <fabian.bravo.abarca@gmail.com>
+Date:   Thu Aug 16 10:03:05 2018 -0300
+
+    Modificaciones propuestas para ejercicio de markdown
+
+[33mcommit eebf137af1b40cf44f33d81f9bc7a13fc78b76f4[m
+Author: developervilchez <developervilchez@gmail.com>
+Date:   Wed Aug 15 17:03:00 2018 -0500
+
+    add more items to checklist
+
+[33mcommit 1742c84435ea5441bd6c7689d9a25869061224b0[m
+Author: Danielalab <olabolacrayola@hotmail.com>
+Date:   Thu Aug 9 15:10:36 2018 -0500
+
+    modify requirements
+
+[33mcommit a31b60c39dde13d481679dd030470b5ae7bb0e0b[m
+Author: Danielalab <olabolacrayola@hotmail.com>
+Date:   Thu Aug 9 14:42:09 2018 -0500
+
+    modify level 3 => 4 soft
+
+[33mcommit ac568363ff3fb88632e7b4a79a12f61351896de8[m
+Author: Diego <diego@laboratoria.la>
+Date:   Thu Aug 9 14:30:42 2018 -0500
+
+    Update README.md
+
+[33mcommit 9e713be04e2abbef44198ad58ebd93c7ba5b99e6[m
+Author: developervilchez <developervilchez@gmail.com>
+Date:   Thu Aug 9 13:09:15 2018 -0500
+
+    update mandatory part without release
+
+[33mcommit 31d51d27fec526da641e27ad25165720cdb0059b[m
+Author: developervilchez <developervilchez@gmail.com>
+Date:   Thu Aug 9 12:31:52 2018 -0500
+
+    add checklist base
+
+[33mcommit d08c17085b171cbaf564658acd38a87db4735853[m
+Author: developervilchez <developervilchez@gmail.com>
+Date:   Thu Aug 9 12:09:39 2018 -0500
+
+    clean items in tech items table
+
+[33mcommit f98ed08182ec8a3be82b873ddee1fd83771e8723[m
+Author: developervilchez <developervilchez@gmail.com>
+Date:   Thu Aug 9 12:08:02 2018 -0500
+
+    format in table soft items
+
+[33mcommit 3042b0531ee0000217fc96b3c46d1fda045d7279[m
+Author: developervilchez <developervilchez@gmail.com>
+Date:   Thu Aug 9 12:05:59 2018 -0500
+
+    add evaluation table with tech and soft items
+
+[33mcommit 4f79459d1a038f992dd0b0d8c150e17be95caaeb[m
+Merge: 0569453 10e085c
+Author: Danielalab <olabolacrayola@hotmail.com>
+Date:   Wed Aug 8 10:54:13 2018 -0500
+
+    Merge branch 'master' of https://github.com/Laboratoria/lim20181-Track-FE-markdown-list
+
+[33mcommit 0569453b931d396bc235b5d9f15407a91cda365a[m
+Author: Danielalab <olabolacrayola@hotmail.com>
+Date:   Wed Aug 8 10:54:03 2018 -0500
+
+    delete image cli, flow diagram
+
+[33mcommit 10e085c702996fbdc0df6d87bdc1bbd840460d3a[m
+Author: Diego <diego@laboratoria.la>
+Date:   Wed Aug 8 10:09:03 2018 -0500
+
+    wording
+    
+    correcciones menores de forma
+
+[33mcommit 194ed3607ef810edadb3200956acbfbb7b2c7358[m
+Author: Danielalab <olabolacrayola@hotmail.com>
+Date:   Tue Aug 7 17:11:49 2018 -0500
+
+    add image cli & item hacker edition
+
+[33mcommit 267f1b1de21a8ab29634345909d3d44e8df7f2fb[m
+Merge: bcfe2b4 908bdf5
+Author: developervilchez <developervilchez@gmail.com>
+Date:   Tue Aug 7 16:56:45 2018 -0500
+
+    change example code drafting and project scope
+
+[33mcommit bcfe2b4e30a2ed826d3b64da89073e9fb0cef61e[m
+Author: developervilchez <developervilchez@gmail.com>
+Date:   Tue Aug 7 16:44:33 2018 -0500
+
+    add scope to proyect
+
+[33mcommit 908bdf54fab83ebe3fbf067fe395bec2ee84313a[m
+Merge: 312ac07 c028a2a
+Author: Danielalab <olabolacrayola@hotmail.com>
+Date:   Tue Aug 7 16:40:43 2018 -0500
+
+    joining changes
+
+[33mcommit 312ac07a349b9edf164cd3cb190af2342b05d730[m
+Author: Danielalab <olabolacrayola@hotmail.com>
+Date:   Tue Aug 7 16:38:47 2018 -0500
+
+    add image(flow diagram), tips
+
+[33mcommit c028a2ade66018a610a927623d2332690daa698b[m
+Author: developervilchez <developervilchez@gmail.com>
+Date:   Tue Aug 7 16:30:35 2018 -0500
+
+    add links to topics
+
+[33mcommit 4d0063060f13c1a002e5b365197e2d34b29b9bd6[m
+Author: developervilchez <developervilchez@gmail.com>
+Date:   Tue Aug 7 16:11:30 2018 -0500
+
+    add mandatory part of the project
+
+[33mcommit a3294a2bbbcd2f853771828c9d44ec63b8cf85b3[m
+Author: developervilchez <developervilchez@gmail.com>
+Date:   Tue Aug 7 16:05:04 2018 -0500
+
+    add readme markdown-list-bootcamp
