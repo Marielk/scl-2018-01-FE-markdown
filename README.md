@@ -40,7 +40,7 @@ Esto devolverá un listado con los links encontrados en tu archivo con su títul
 La siguiente opción es 
 
 ```
-$mdlinks <nombre-de-tu-archivo.md> --validate
+$mdlinks <nombre-de-tu-archivo.md> -validate
 ```
 
 Esto te devolverá lo mismo que el comando anterior además de un status de cada link, 200 si esta funcionando, y 404 si no existe el enlace. 
@@ -51,7 +51,6 @@ Usa la librería como un paquete completo, instalando con npm, se guardará el f
 
 		```
 		const links = require('./node_modules/marielk-mdlinks/lib/md-links').mdlinks(nombreDeTuArchivo.md, -validate);
-		
 		```
 <a href="http://www.freeimagehosting.net/commercial-photography/"><img src="https://i.imgur.com/9AOzjLg.jpg" alt="Commercial Photography"></a>
 <a href="http://www.freeimagehosting.net/commercial-photography/"><img src="https://i.imgur.com/xbFKfA7.jpg" alt="Commercial Photography"></a>
