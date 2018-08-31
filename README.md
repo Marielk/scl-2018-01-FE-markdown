@@ -49,15 +49,15 @@ Esto te devolverá lo mismo que el comando anterior además de un status de cada
 
 Usa la librería como un paquete completo, instalando con npm, se guardará el fichero en la carpeta node_modules, marielk-mdlinks. Luego en tu archivo js puedes usarlo directamente con "require", ejemplo:
 
-		```javascript
-		
+		```java
 		const doc = require('./node_modules/marielk-mdlinks/lib/md-links').mdlinks(nombreDeTuArchivo.md, -validate);
 		
 		```
 
 
 ### Flujo de la aplicación ⌨️
-![Diagrama de flujo](https://drive.google.com/file/d/1ZOMvNHprc5LAeECrMF6zWEm-tBFn1Vh9/view?usp=sharing)
+![Diagrama de flujo]
+<a href="http://www.freeimagehosting.net/commercial-photography/"><img src="https://i.imgur.com/etr2wOa.jpg" alt="Commercial Photography"></a>
 
 ## Documentación usada 📦
 
@@ -102,6 +102,7 @@ _Proyecto realizado para Laboratoria Chile, proceso de Bootcamp 2018_
 
 * **Mariel Quezada** - *Developer* - [Marielk](https://github.com/Marielk)
 
-También puedes mirar el repositorio original de este proyecto [Laboratoria-Markdown](https://github.com/Laboratoria/scl-2018-01-FE-markdown) quíenes han creado este desafío para las estudiantes de este curso. :woman:
+También puedes mirar el repositorio original de este proyecto [Laboratoria-Markdown](https://github.com/Laboratoria/scl-2018-01-FE-markdown) quíenes han creado este desafío para las estudiantes de este curso 
+:woman: :computer:. 
 
 
