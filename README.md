@@ -49,14 +49,15 @@ Esto te devolverá lo mismo que el comando anterior además de un status de cada
 
 Usa la librería como un paquete completo, instalando con npm, se guardará el fichero en la carpeta node_modules, marielk-mdlinks. Luego en tu archivo js puedes usarlo directamente con "require", ejemplo:
 
-		```java
-		const doc = require('./node_modules/marielk-mdlinks/lib/md-links').mdlinks(nombreDeTuArchivo.md, -validate);
+		```
+		const links = require('./node_modules/marielk-mdlinks/lib/md-links').mdlinks(nombreDeTuArchivo.md, -validate);
 		
 		```
-
+<a href="http://www.freeimagehosting.net/commercial-photography/"><img src="https://i.imgur.com/9AOzjLg.jpg" alt="Commercial Photography"></a>
+<a href="http://www.freeimagehosting.net/commercial-photography/"><img src="https://i.imgur.com/xbFKfA7.jpg" alt="Commercial Photography"></a>
 
 ### Flujo de la aplicación ⌨️
-![Diagrama de flujo]
+
 <a href="http://www.freeimagehosting.net/commercial-photography/"><img src="https://i.imgur.com/etr2wOa.jpg" alt="Commercial Photography"></a>
 
 ## Documentación usada 📦
