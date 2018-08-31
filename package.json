@@ -1,6 +1,6 @@
 {
   "name": "marielk-mdlinks",
-  "version": "2.2.0",
+  "version": "2.4.0",
   "description": "this is an app to recover all links in a md file",
   "main": "index.js",
   "bin": {
