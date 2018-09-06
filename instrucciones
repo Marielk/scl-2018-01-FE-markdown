@@ -1,0 +1,25 @@
+* notas de uso * 
+Debes tener instalado npm 
+(sudo) npm install -g 
+Usa la libreria como un paquete completo, instalando con npm, se guardara el fichero en la carpeta node_modules, marielk-mdlinks. Luego en tu archivo js puedes usarlo directamente con "require", ejemplo: require('./node_modules/marielk-mdlinks/lib/md-links');
+
+Para usarlo en la terminal (git Bash) 
+Debes instalar de forma global las siguientes librerias con las que trabaja este markdown extractor (de forma global para que este disponible en cualquiera de tus proyectos, de lo contrario en lugar de "-g" debes escribir "--save"): 
+npm install marked -g
+npm install marked-terminal -g
+npm install chalk -g 
+npm install node-fetch -g
+
+Luego instalar esta libreria
+npm install marielk-mdlinks -g 
+
+A continuacion debes ejecutar el comando 
+$ mdlinks <nombre-de-tu-archivo.md>
+
+Esto devolvera un listado con los links encontrados en tu archivo con su título y la linea de codigo donde se encuentra.
+
+La siguiente opcion es 
+$mdlinks <nombre-de-tu-archivo.md> --validate
+
+Esto te devolvera lo mismo que el comando anterior además de un status de cada link, 200 si esta funcionando, y 404 si no existe el enlace. 
+

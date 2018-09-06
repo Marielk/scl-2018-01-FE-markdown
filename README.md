@@ -3,6 +3,8 @@
 _Esta es una libreria de NodeJS que contiene un extractor de links, recibe una ruta de archivo en formato “.md” y retorna por medio de la consola un listado de todos los enlaces que contiene el proyecto, así como la línea del archivo donde se encuentra alojado. 
 Además si se añade la opción de validar, puede comprobar que los enlaces están funcionando  o de lo contrario están “rotos”._
 
+[link a NPM](https://www.npmjs.com/package/marielk-mdlinks)
+
 ## Sobre el proyecto 🚀
 
 Este proyecto se encuentra en su versión 2.4.0 en la cual se añadió la validación de links, por el momento estamos trabajando en una mejor implementación y más opciones de validación como obtener un promedio de links con status ok. 
