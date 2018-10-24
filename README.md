@@ -1,6 +1,5 @@
-<h1> Markdown-Proyect </h1>
 
-![Markdown- Proyect]
+![MarkdownProyect]
 (https://i.imgur.com/9AOzjLg.jpg)
 
 ## Desarrollado para 
