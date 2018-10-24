@@ -1,6 +1,11 @@
 <h1> Markdown-Proyect </h1>
 
-<a href="http://www.freeimagehosting.net/commercial-photography/"><img src="https://i.imgur.com/9AOzjLg.jpg" alt="Commercial Photography"></a>
+![Markdown- Proyect]
+(https://i.imgur.com/9AOzjLg.jpg)
+
+## Desarrollado para 
+[Laboratoria](https://github.com/Laboratoria)
+
 
 _Esta es una libreria de NodeJS que contiene un extractor de links, recibe una ruta de archivo en formato “.md” y retorna por medio de la consola un listado de todos los enlaces que contiene el proyecto, así como la línea del archivo donde se encuentra alojado. 
 Además si se añade la opción de validar, puede comprobar que los enlaces están funcionando  o de lo contrario están “rotos”._
