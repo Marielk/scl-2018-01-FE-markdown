@@ -1,9 +1,6 @@
 # Proyecto Markdown 
 
-Esta es una libreria de NodeJS que contiene un extractor de links, recibe una ruta de archivo en formato “.md” y retorna por medio de la consola un listado de todos los enlaces que contiene el proyecto.
-
-![Libreria]
-(https://i.imgur.com/9AOzjLg.jpg)
+![captura de pantalla de 2018-08-31 11-20-49](https://user-images.githubusercontent.com/38724465/47403930-be377c00-d721-11e8-8cc6-18e795097bcf.png)
 
 ## Desarrollado para 
 [Laboratoria](https://github.com/Laboratoria)
